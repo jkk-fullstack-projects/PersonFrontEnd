@@ -21,8 +21,8 @@ The PersonItem component displays the details of a person. It takes a person obj
 ## Dependencies
 
 The following dependencies are required to use the front-end code:
-React
-axios
+1. React
+2. axios
 
 ## Development Setup
 
